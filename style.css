@@ -1,0 +1,64 @@
+.page{
+    background-image:linear-gradient(#ffb64f, #fffb82, #ff9e4f);
+    width: 100%;
+}
+
+.start{
+    width: 20%;
+    transition: all 500ms ease;
+}
+
+.start:hover{
+    width: 22%;
+}
+
+.title{
+    width: 40%;
+}
+
+.p
+{
+  font-family: 'Poppins', sans-serif;
+  width: 30%; 
+  margin-right:2%; 
+  margin-left: 20%;
+}
+
+.p2
+{
+  font-family: 'Poppins', sans-serif;
+  width: 10%; 
+  margin-right:2%; 
+  margin-left: 20%;
+}
+
+.p3
+{
+  font-family: 'Poppins', sans-serif;
+  width: 30%; 
+  margin-right:2%; 
+  margin-left: 2%;
+}
+
+.p4
+{
+  font-family: 'Poppins', sans-serif;
+  width: 31%; 
+  margin-right:2%; 
+  margin-left: 17%;
+}
+
+.rocket
+{
+    width:10%;
+    margin-right: 2%;
+}
+
+.goStraight{
+  width: 15%;
+  transition: all 500ms ease;
+}
+
+.goStraight:hover{
+  width: 16%;
+}
